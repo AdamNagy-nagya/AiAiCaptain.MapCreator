@@ -7,7 +7,7 @@ How to: (2019.04.26.)
 Open this projet in Unity, use the tilebrush to make the map in the scene.
 Set filename in MapSaver Mapname, set map parameters (x, y)
 
-*ONLY MAKE FOUR-SQUARE MAPS*
+*ONLY MAKE FOUR-SQUARE MAPS & MAKE SURE TO FILL EVERY TILECELL*
 
 Run scene to save the map to file.
 
