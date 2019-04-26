@@ -1,2 +1,17 @@
 # AiAiCapitan.MapCreator
 Map creator for AiAiCapitain
+
+
+How to: (2019.04.26.)
+
+Open this projet in Unity, use the tilebrush to make the map in the scene.
+Set filename in MapSaver Mapname, set map parameters (x, y)
+
+*ONLY MAKE FOUR-SQUARE MAPS*
+
+Run scene to save the map to file.
+
+Setup:
+Copy file from this project's SavedMap folder to AiAiCapitain's Map folder.
+In AiAiCapitan's Scripts/Game/Map/MapFileLoader.cs add your map's name, create your scene, 
+set Setup LoadMap to true and enter your map's id. 
