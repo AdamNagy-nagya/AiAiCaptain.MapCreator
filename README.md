@@ -1,5 +1,5 @@
 # AiAiCapitan.MapCreator
-Map creator for AiAiCapitain
+Map creator for AiAiCaptain
 
 
 How to: (2019.04.26.)
