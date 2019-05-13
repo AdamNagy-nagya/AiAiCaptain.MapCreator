@@ -15,3 +15,5 @@ Setup:
 Copy file from this project's SavedMap folder to AiAiCapitain's Map folder.
 In AiAiCapitan's Scripts/Game/Map/MapFileLoader.cs add your map's name, create your scene, 
 set Setup LoadMap to true and enter your map's id. 
+
+For the main project visit: https://github.com/BigAdam22/AiAiCaptain
